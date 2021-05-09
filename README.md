@@ -42,9 +42,9 @@ HTML
 CSS
 
 # Links
-Deployed-   
+Deployed-   https://micahpellum.github.io/CodeRefactor/
 
-Github Repo-  
+Github Repo-  https://github.com/MicahPellum
 
 # Images  
 
